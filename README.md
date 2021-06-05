@@ -1,4 +1,4 @@
-# birdapp4liah
+# FIRST PART
 
 i had to do it the easiest 
 way for you otherwise it's confusing and 
@@ -20,3 +20,5 @@ many people are using it
 
 4. upload the .ipa to the website press install
 and tada you finessed the system 
+
+go to releases below this to get the stuff 
